@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ABLSandbox/lp/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ABLSandbox/lp/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+	<iframe width="700" height="433" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTbMACbrLgf2ppfT2DrtgOHuWj4H6QkgIwOA-BBnY_kz_j5vvtLgRGRptkkEX5HX7ZksDCeWh7y-flI/pubchart?oid=1438612738&amp;format=interactive"></iframe>
+    
+    <script SameSite="None; Secure" src="https://static.landbot.io/landbot-3/landbot-3.0.0.js"></script>
+    <script>
+      var myLandbot = new Landbot.Livechat({
+        configUrl: 'https://chats.landbot.io/v3/H-962054-V8PSAF8WHSZ9DZ45/index.json',
+      });
+    </script>
+	
